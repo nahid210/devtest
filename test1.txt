@@ -1,1 +1,2 @@
 this is new file for test
+file is tested
